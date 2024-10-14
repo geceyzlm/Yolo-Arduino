@@ -2,4 +2,5 @@
 
 [EN] In this project, there are examples of object recognition with the Yolo library, such as recognizing the object in the picture, recognizing the object in the video, recognizing the object with the camera. In this project, an example of object recognition was also made with Arduino.
 
+![image](https://github.com/user-attachments/assets/cc56d2ef-1744-47b1-ba84-f55ef0048f82)
 
